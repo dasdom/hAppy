@@ -1,0 +1,756 @@
+/* Class = "IBUIButton"; accessibilityHint = "Shows the details to the selected post."; ObjectID = "03G-or-4uV"; */
+"03G-or-4uV.accessibilityHint" = "Shows the details to the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Post details"; ObjectID = "03G-or-4uV"; */
+"03G-or-4uV.accessibilityLabel" = "Post details";
+
+/* Class = "IBUIBarButtonItem"; title = "  <  "; ObjectID = "0fV-wS-fBe"; */
+"0fV-wS-fBe.title" = "  <  ";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "0ir-3A-icT"; */
+"0ir-3A-icT.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "0xx-G6-D8Y"; */
+"0xx-G6-D8Y.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "0yH-5u-2OU"; */
+"0yH-5u-2OU.text" = "Label";
+
+/* Class = "IBUILabel"; text = "posts"; ObjectID = "14t-z6-ZB6"; */
+"14t-z6-ZB6.text" = "posts";
+
+/* Class = "IBUISegmentedControl"; 17R-Mx-r4k.segmentTitles[0] = "Hashtag"; ObjectID = "17R-Mx-r4k"; */
+"17R-Mx-r4k.segmentTitles[0]" = "Hashtag";
+
+/* Class = "IBUISegmentedControl"; 17R-Mx-r4k.segmentTitles[1] = "User"; ObjectID = "17R-Mx-r4k"; */
+"17R-Mx-r4k.segmentTitles[1]" = "User";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "1cl-ld-gJG"; */
+"1cl-ld-gJG.text" = "0";
+
+/* Class = "IBUILabel"; text = "Link your dropbox account to use it for image sharing in ADN."; ObjectID = "2OZ-dx-u7S"; */
+"2OZ-dx-u7S.text" = "Link your dropbox account to use it for image sharing in ADN.";
+
+/* Class = "IBUILabel"; text = "read later via"; ObjectID = "2kI-f7-Mao"; */
+"2kI-f7-Mao.text" = "read later via";
+
+/* Class = "IBUINavigationItem"; title = "mentions"; ObjectID = "3MI-hI-YDd"; */
+"3MI-hI-YDd.title" = "mentions";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows the posts of the user."; ObjectID = "3Qd-yJ-uVM"; */
+"3Qd-yJ-uVM.accessibilityHint" = "Shows the posts of the user.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Posts"; ObjectID = "3Qd-yJ-uVM"; */
+"3Qd-yJ-uVM.accessibilityLabel" = "Posts";
+
+/* Class = "IBUILabel"; text = "more posts (no loading yet)"; ObjectID = "3Xa-CM-zjO"; */
+"3Xa-CM-zjO.text" = "more posts (no loading yet)";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "3zU-jC-qEn"; */
+"3zU-jC-qEn.text" = "0";
+
+/* Class = "IBUIImageView"; accessibilityHint = "Shows the users profile."; ObjectID = "4FZ-wz-AZb"; */
+"4FZ-wz-AZb.accessibilityHint" = "Shows the users profile.";
+
+/* Class = "IBUIImageView"; accessibilityLabel = "Profile"; ObjectID = "4FZ-wz-AZb"; */
+"4FZ-wz-AZb.accessibilityLabel" = "Profile";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "4or-GZ-BFP"; */
+"4or-GZ-BFP.text" = "Label";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows the conversation the post belongs to."; ObjectID = "57Q-70-Hbs"; */
+"57Q-70-Hbs.accessibilityHint" = "Shows the conversation the post belongs to.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Conversation"; ObjectID = "57Q-70-Hbs"; */
+"57Q-70-Hbs.accessibilityLabel" = "Conversation";
+
+/* Class = "IBUIButton"; normalTitle = "mute"; ObjectID = "64E-5t-LdI"; */
+"64E-5t-LdI.normalTitle" = "mute";
+
+/* Class = "IBUINavigationItem"; title = "details"; ObjectID = "72H-fa-edh"; */
+"72H-fa-edh.title" = "details";
+
+/* Class = "IBUINavigationItem"; title = "stream"; ObjectID = "7ZE-2Y-hp9"; */
+"7ZE-2Y-hp9.title" = "stream";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows the post drafts."; ObjectID = "7Zn-9E-1vb"; */
+"7Zn-9E-1vb.accessibilityHint" = "Shows the post drafts.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Drafts"; ObjectID = "7Zn-9E-1vb"; */
+"7Zn-9E-1vb.accessibilityLabel" = "Drafts";
+
+/* Class = "IBUIButton"; normalTitle = "drafts"; ObjectID = "7Zn-9E-1vb"; */
+"7Zn-9E-1vb.normalTitle" = "drafts";
+
+/* Class = "IBUILabel"; text = "Feedback via Testflight"; ObjectID = "7n1-At-H9K"; */
+"7n1-At-H9K.text" = "Feedback via Testflight";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows the peoble this person is following."; ObjectID = "8C7-YW-xXv"; */
+"8C7-YW-xXv.accessibilityHint" = "Shows the people this person is following.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Following"; ObjectID = "8C7-YW-xXv"; */
+"8C7-YW-xXv.accessibilityLabel" = "Following";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows the conversation the post belongs to."; ObjectID = "8FD-aw-gHF"; */
+"8FD-aw-gHF.accessibilityHint" = "Shows the conversation the post belongs to.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Conversation"; ObjectID = "8FD-aw-gHF"; */
+"8FD-aw-gHF.accessibilityLabel" = "Conversation";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "8dn-N5-ADy"; */
+"8dn-N5-ADy.text" = "Label";
+
+/* Class = "IBUIButton"; accessibilityHint = "Remove the hashtag from the list of muted hashtags."; ObjectID = "9W7-Wx-JFS"; */
+"9W7-Wx-JFS.accessibilityHint" = "Remove the hashtag from the list of muted hashtags.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Remove"; ObjectID = "9W7-Wx-JFS"; */
+"9W7-Wx-JFS.accessibilityLabel" = "Remove";
+
+/* Class = "IBUIButton"; normalTitle = "x"; ObjectID = "9W7-Wx-JFS"; */
+"9W7-Wx-JFS.normalTitle" = "x";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows a list with the links, mentions and hash tags included in the post."; ObjectID = "9oA-Rs-gor"; */
+"9oA-Rs-gor.accessibilityHint" = "Shows a list with the links, mentions and hash tags included in the post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Meta data"; ObjectID = "9oA-Rs-gor"; */
+"9oA-Rs-gor.accessibilityLabel" = "Meta data";
+
+/* Class = "IBUITabBarItem"; title = "messages"; ObjectID = "9yv-sJ-H30"; */
+"9yv-sJ-H30.title" = "messages";
+
+/* Class = "IBUINavigationItem"; title = "link dropbox"; ObjectID = "ACO-6R-WiB"; */
+"ACO-6R-WiB.title" = "link dropbox";
+
+/* Class = "IBUIButton"; accessibilityHint = "Stars the selected post."; ObjectID = "AJd-08-Ngw"; */
+"AJd-08-Ngw.accessibilityHint" = "Stars the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Star"; ObjectID = "AJd-08-Ngw"; */
+"AJd-08-Ngw.accessibilityLabel" = "Star";
+
+/* Class = "IBUILabel"; text = "256"; ObjectID = "AQc-kf-Vah"; */
+"AQc-kf-Vah.text" = "256";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "BDo-Pm-j2r"; */
+"BDo-Pm-j2r.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "BVX-lh-wwn"; */
+"BVX-lh-wwn.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "BoD-Jk-8J6"; */
+"BoD-Jk-8J6.text" = "Label";
+
+/* Class = "IBUIBarButtonItem"; title = "send"; ObjectID = "Bpw-Lu-tvC"; */
+"Bpw-Lu-tvC.title" = "send";
+
+/* Class = "IBUILabel"; text = "?"; ObjectID = "BxN-1L-1vV"; */
+"BxN-1L-1vV.text" = "?";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "CFU-kh-ZLt"; */
+"CFU-kh-ZLt.text" = "0";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "CNL-Rm-MhF"; */
+"CNL-Rm-MhF.text" = "Detail";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows the details to the selected post."; ObjectID = "CSc-ul-gZn"; */
+"CSc-ul-gZn.accessibilityHint" = "Shows the details to the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Post details"; ObjectID = "CSc-ul-gZn"; */
+"CSc-ul-gZn.accessibilityLabel" = "Post details";
+
+/* Class = "IBUITabBarItem"; title = "stream"; ObjectID = "Cmi-hL-gv0"; */
+"Cmi-hL-gv0.title" = "stream";
+
+/* Class = "IBUILabel"; text = "256"; ObjectID = "Csp-Iw-gKj"; */
+"Csp-Iw-gKj.text" = "256";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "DL1-AV-js9"; */
+"DL1-AV-js9.text" = "Label";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows a list with the links, mentions and hash tags included in the post."; ObjectID = "Dqo-wu-opL"; */
+"Dqo-wu-opL.accessibilityHint" = "Shows a list with the links, mentions and hash tags included in the post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Meta data"; ObjectID = "Dqo-wu-opL"; */
+"Dqo-wu-opL.accessibilityLabel" = "Meta data";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "Duf-cR-8D6"; */
+"Duf-cR-8D6.text" = "0";
+
+/* Class = "IBUILabel"; text = "?"; ObjectID = "EeK-f8-HrE"; */
+"EeK-f8-HrE.text" = "?";
+
+/* Class = "IBUILabel"; text = "FontName"; ObjectID = "FBB-cf-oz8"; */
+"FBB-cf-oz8.text" = "FontName";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows a list with the links, mentions and hash tags included in the post."; ObjectID = "FKt-vS-BJ4"; */
+"FKt-vS-BJ4.accessibilityHint" = "Shows a list with the links, mentions and hash tags included in the post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Meta data"; ObjectID = "FKt-vS-BJ4"; */
+"FKt-vS-BJ4.accessibilityLabel" = "Meta data";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "FMT-h6-2ba"; */
+"FMT-h6-2ba.text" = "Label";
+
+/* Class = "IBUIImageView"; accessibilityHint = "Shows the users profile."; ObjectID = "FPs-FY-WqM"; */
+"FPs-FY-WqM.accessibilityHint" = "Shows the users profile.";
+
+/* Class = "IBUIImageView"; accessibilityLabel = "Profile"; ObjectID = "FPs-FY-WqM"; */
+"FPs-FY-WqM.accessibilityLabel" = "Profile";
+
+/* Class = "IBUIButton"; accessibilityHint = "Replies to the selected post."; ObjectID = "FbM-5Y-hY3"; */
+"FbM-5Y-hY3.accessibilityHint" = "Replies to the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Reply"; ObjectID = "FbM-5Y-hY3"; */
+"FbM-5Y-hY3.accessibilityLabel" = "Reply";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Fxe-pJ-WEi"; */
+"Fxe-pJ-WEi.text" = "Label";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "HB8-SO-6Fv"; */
+"HB8-SO-6Fv.text" = "0";
+
+/* Class = "IBUIImageView"; accessibilityHint = "Shows the users profile."; ObjectID = "HJu-Tv-Zxz"; */
+"HJu-Tv-Zxz.accessibilityHint" = "Shows the users profile.";
+
+/* Class = "IBUIImageView"; accessibilityLabel = "Profile"; ObjectID = "HJu-Tv-Zxz"; */
+"HJu-Tv-Zxz.accessibilityLabel" = "Profile";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows a list with the links, mentions and hash tags included in the post."; ObjectID = "HRQ-95-pcr"; */
+"HRQ-95-pcr.accessibilityHint" = "Shows a list with the links, mentions and hash tags included in the post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Meta data"; ObjectID = "HRQ-95-pcr"; */
+"HRQ-95-pcr.accessibilityLabel" = "Meta data";
+
+/* Class = "IBUIImageView"; accessibilityHint = "Shows the users profile."; ObjectID = "HTB-wx-KWG"; */
+"HTB-wx-KWG.accessibilityHint" = "Shows the users profile.";
+
+/* Class = "IBUIImageView"; accessibilityLabel = "Profile"; ObjectID = "HTB-wx-KWG"; */
+"HTB-wx-KWG.accessibilityLabel" = "Profile";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "HtF-bg-YTT"; */
+"HtF-bg-YTT.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "meta data"; ObjectID = "I76-LB-0VK"; */
+"I76-LB-0VK.title" = "meta data";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Ie9-u2-Vqg"; */
+"Ie9-u2-Vqg.text" = "Label";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "J4n-Th-LXx"; */
+"J4n-Th-LXx.text" = "0";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "KIt-6r-6aT"; */
+"KIt-6r-6aT.text" = "0";
+
+/* Class = "IBUILabel"; text = "about"; ObjectID = "KSb-Fs-CNo"; */
+"KSb-Fs-CNo.text" = "about";
+
+/* Class = "IBUIButton"; normalTitle = "message"; ObjectID = "KfO-Mc-gZq"; */
+"KfO-Mc-gZq.normalTitle" = "message";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "KvO-ki-Lpf"; */
+"KvO-ki-Lpf.text" = "Label";
+
+/* Class = "IBUIButton"; accessibilityHint = "Reposts the selected post."; ObjectID = "LBf-a2-zbf"; */
+"LBf-a2-zbf.accessibilityHint" = "Reposts the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Repost"; ObjectID = "LBf-a2-zbf"; */
+"LBf-a2-zbf.accessibilityLabel" = "Repost";
+
+/* Class = "IBUIButton"; accessibilityHint = "Stars the selected post."; ObjectID = "Lj4-4h-8DQ"; */
+"Lj4-4h-8DQ.accessibilityHint" = "Stars the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Star"; ObjectID = "Lj4-4h-8DQ"; */
+"Lj4-4h-8DQ.accessibilityLabel" = "Star";
+
+/* Class = "IBUIButton"; accessibilityHint = "Reposts the selected post."; ObjectID = "Ll9-ft-eyV"; */
+"Ll9-ft-eyV.accessibilityHint" = "Reposts the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Repost"; ObjectID = "Ll9-ft-eyV"; */
+"Ll9-ft-eyV.accessibilityLabel" = "Repost";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows the conversation the post belongs to."; ObjectID = "Lqi-uC-rd0"; */
+"Lqi-uC-rd0.accessibilityHint" = "Shows the conversation the post belongs to.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Conversation"; ObjectID = "Lqi-uC-rd0"; */
+"Lqi-uC-rd0.accessibilityLabel" = "Conversation";
+
+/* Class = "IBUITabBarItem"; title = "mentions"; ObjectID = "MHr-Xz-RTd"; */
+"MHr-Xz-RTd.title" = "mentions";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "MM8-7b-aBn"; */
+"MM8-7b-aBn.text" = "Label";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "MUY-md-Ndv"; */
+"MUY-md-Ndv.text" = "0";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "N4T-D4-nN4"; */
+"N4T-D4-nN4.text" = "Label";
+
+/* Class = "IBUIBarButtonItem"; title = "save"; ObjectID = "NN4-yU-LVQ"; */
+"NN4-yU-LVQ.title" = "save";
+
+/* Class = "IBUIBarButtonItem"; title = "action"; ObjectID = "Ntv-lI-ZTO"; */
+"Ntv-lI-ZTO.title" = "action";
+
+/* Class = "IBUINavigationItem"; title = "settings"; ObjectID = "O84-7d-dQT"; */
+"O84-7d-dQT.title" = "settings";
+
+/* Class = "IBUIButton"; accessibilityHint = "Add photos and links to the post."; ObjectID = "OVC-II-MTV"; */
+"OVC-II-MTV.accessibilityHint" = "Add photos and links to the post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Add"; ObjectID = "OVC-II-MTV"; */
+"OVC-II-MTV.accessibilityLabel" = "Add";
+
+/* Class = "IBUITabBarItem"; title = "profile"; ObjectID = "OpR-3d-wZC"; */
+"OpR-3d-wZC.title" = "profile";
+
+/* Class = "IBUIBarButtonItem"; title = "cancel"; ObjectID = "P8a-Jm-qFN"; */
+"P8a-Jm-qFN.title" = "cancel";
+
+/* Class = "IBUILabel"; text = "?"; ObjectID = "POT-fX-Cca"; */
+"POT-fX-Cca.text" = "?";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "PPz-0D-cia"; */
+"PPz-0D-cia.text" = "Label";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "PaF-JZ-v7w"; */
+"PaF-JZ-v7w.text" = "0";
+
+/* Class = "IBUILabel"; text = "following"; ObjectID = "Q2o-rp-ExL"; */
+"Q2o-rp-ExL.text" = "following";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "QD6-gU-hKj"; */
+"QD6-gU-hKj.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "QDj-9t-1S7"; */
+"QDj-9t-1S7.text" = "Label";
+
+/* Class = "IBUIButton"; accessibilityHint = "Reposts the selected post."; ObjectID = "QRC-7l-xu0"; */
+"QRC-7l-xu0.accessibilityHint" = "Reposts the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Repost"; ObjectID = "QRC-7l-xu0"; */
+"QRC-7l-xu0.accessibilityLabel" = "Repost";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows the conversation the post belongs to."; ObjectID = "Qt3-zX-974"; */
+"Qt3-zX-974.accessibilityHint" = "Shows the conversation the post belongs to.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Conversation"; ObjectID = "Qt3-zX-974"; */
+"Qt3-zX-974.accessibilityLabel" = "Conversation";
+
+/* Class = "IBUISearchBar"; text = "happy"; ObjectID = "RJc-Y0-1my"; */
+"RJc-Y0-1my.text" = "happy";
+
+/* Class = "IBUISearchBar"; RJc-Y0-1my.scopeButtonTitles[0] = "Title"; ObjectID = "RJc-Y0-1my"; */
+"RJc-Y0-1my.scopeButtonTitles[0]" = "Title";
+
+/* Class = "IBUISearchBar"; RJc-Y0-1my.scopeButtonTitles[1] = "Title"; ObjectID = "RJc-Y0-1my"; */
+"RJc-Y0-1my.scopeButtonTitles[1]" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "follow"; ObjectID = "Rgt-NR-Vob"; */
+"Rgt-NR-Vob.normalTitle" = "follow";
+
+/* Class = "IBUIBarButtonItem"; title = "cancel"; ObjectID = "RmC-2k-7cW"; */
+"RmC-2k-7cW.title" = "cancel";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows the details to the selected post."; ObjectID = "Ry6-QQ-InR"; */
+"Ry6-QQ-InR.accessibilityHint" = "Shows the details to the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Post details"; ObjectID = "Ry6-QQ-InR"; */
+"Ry6-QQ-InR.accessibilityLabel" = "Post details";
+
+/* Class = "IBUILabel"; text = "show posts directed to people I don't follow"; ObjectID = "SEP-gK-KyU"; */
+"SEP-gK-KyU.text" = "show posts directed to people I don't follow";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "UWy-uP-vPe"; */
+"UWy-uP-vPe.text" = "Label";
+
+/* Class = "IBUIButton"; accessibilityHint = "Stars the selected post."; ObjectID = "Uhb-El-Q7E"; */
+"Uhb-El-Q7E.accessibilityHint" = "Stars the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Star"; ObjectID = "Uhb-El-Q7E"; */
+"Uhb-El-Q7E.accessibilityLabel" = "Star";
+
+/* Class = "IBUIButton"; accessibilityHint = "Reposts the selected post."; ObjectID = "V3m-Mu-jUk"; */
+"V3m-Mu-jUk.accessibilityHint" = "Reposts the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Repost"; ObjectID = "V3m-Mu-jUk"; */
+"V3m-Mu-jUk.accessibilityLabel" = "Repost";
+
+/* Class = "IBUINavigationItem"; title = "channels"; ObjectID = "VMC-1w-edp"; */
+"VMC-1w-edp.title" = "channels";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Vz6-tG-W7E"; */
+"Vz6-tG-W7E.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "messages"; ObjectID = "WNL-wa-7OH"; */
+"WNL-wa-7OH.title" = "messages";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Wdz-8b-U8m"; */
+"Wdz-8b-U8m.text" = "Label";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "WwU-fi-cQq"; */
+"WwU-fi-cQq.text" = "0";
+
+/* Class = "IBUIImageView"; accessibilityHint = "Shows the users profile."; ObjectID = "Wy3-Ax-0w1"; */
+"Wy3-Ax-0w1.accessibilityHint" = "Shows the users profile.";
+
+/* Class = "IBUIImageView"; accessibilityLabel = "Profile"; ObjectID = "Wy3-Ax-0w1"; */
+"Wy3-Ax-0w1.accessibilityLabel" = "Profile";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Y1n-0i-ejO"; */
+"Y1n-0i-ejO.text" = "Label";
+
+/* Class = "IBUILabel"; text = "?"; ObjectID = "Yvi-zv-vTQ"; */
+"Yvi-zv-vTQ.text" = "?";
+
+/* Class = "IBUIButton"; accessibilityHint = "Replies to the selected post."; ObjectID = "ZYS-gQ-rhZ"; */
+"ZYS-gQ-rhZ.accessibilityHint" = "Replies to the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Reply"; ObjectID = "ZYS-gQ-rhZ"; */
+"ZYS-gQ-rhZ.accessibilityLabel" = "Reply";
+
+/* Class = "IBUINavigationItem"; title = "about"; ObjectID = "Zgk-ue-qlP"; */
+"Zgk-ue-qlP.title" = "about";
+
+/* Class = "IBUINavigationItem"; title = "new post"; ObjectID = "Zjp-dk-oL9"; */
+"Zjp-dk-oL9.title" = "new post";
+
+/* Class = "IBUIButton"; accessibilityHint = "Replies to the selected post."; ObjectID = "a5p-S1-8aP"; */
+"a5p-S1-8aP.accessibilityHint" = "Replies to the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Reply"; ObjectID = "a5p-S1-8aP"; */
+"a5p-S1-8aP.accessibilityLabel" = "Reply";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "aI4-ic-Yen"; */
+"aI4-ic-Yen.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "aPw-ol-HJC"; */
+"aPw-ol-HJC.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "aYH-AF-GSd"; */
+"aYH-AF-GSd.text" = "Label";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "ajJ-9I-9Dq"; */
+"ajJ-9I-9Dq.text" = "0";
+
+/* Class = "IBUINavigationItem"; title = "profile"; ObjectID = "aqC-R0-WsY"; */
+"aqC-R0-WsY.title" = "profile";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "b2z-kM-2Ak"; */
+"b2z-kM-2Ak.text" = "Label";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows the details to the selected post."; ObjectID = "bOH-ew-Ykw"; */
+"bOH-ew-Ykw.accessibilityHint" = "Shows the details to the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Post details"; ObjectID = "bOH-ew-Ykw"; */
+"bOH-ew-Ykw.accessibilityLabel" = "Post details";
+
+/* Class = "IBUIButton"; accessibilityHint = "Remove the hashtag from the list of muted hashtags."; ObjectID = "bQm-OV-tAL"; */
+"bQm-OV-tAL.accessibilityHint" = "Remove the hashtag from the list of muted hashtags.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Remove"; ObjectID = "bQm-OV-tAL"; */
+"bQm-OV-tAL.accessibilityLabel" = "Remove";
+
+/* Class = "IBUIButton"; normalTitle = "x"; ObjectID = "bQm-OV-tAL"; */
+"bQm-OV-tAL.normalTitle" = "x";
+
+/* Class = "IBUIButton"; accessibilityHint = "Replies to the selected post."; ObjectID = "bTq-hk-ApF"; */
+"bTq-hk-ApF.accessibilityHint" = "Replies to the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Reply"; ObjectID = "bTq-hk-ApF"; */
+"bTq-hk-ApF.accessibilityLabel" = "Reply";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "c7N-33-ybO"; */
+"c7N-33-ybO.text" = "0";
+
+/* Class = "IBUIButton"; accessibilityHint = "Remove the hashtag from the list of muted hashtags."; ObjectID = "c9G-HR-yQU"; */
+"c9G-HR-yQU.accessibilityHint" = "Remove the hashtag from the list of muted hashtags.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Remove"; ObjectID = "c9G-HR-yQU"; */
+"c9G-HR-yQU.accessibilityLabel" = "Remove";
+
+/* Class = "IBUIButton"; normalTitle = "x"; ObjectID = "c9G-HR-yQU"; */
+"c9G-HR-yQU.normalTitle" = "x";
+
+/* Class = "IBUITabBarItem"; title = "explore"; ObjectID = "cda-J3-Bg4"; */
+"cda-J3-Bg4.title" = "explore";
+
+/* Class = "IBUIImageView"; accessibilityHint = "Shows the users profile."; ObjectID = "chH-NC-Bw0"; */
+"chH-NC-Bw0.accessibilityHint" = "Shows the users profile.";
+
+/* Class = "IBUIImageView"; accessibilityLabel = "Profile"; ObjectID = "chH-NC-Bw0"; */
+"chH-NC-Bw0.accessibilityLabel" = "Profile";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "cnb-pS-zgW"; */
+"cnb-pS-zgW.text" = "0";
+
+/* Class = "IBUILabel"; text = "image service"; ObjectID = "cuA-Fs-Hr2"; */
+"cuA-Fs-Hr2.text" = "image service";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "d6d-US-mrc"; */
+"d6d-US-mrc.text" = "Label";
+
+/* Class = "IBUILabel"; text = "starred"; ObjectID = "d78-z5-fam"; */
+"d78-z5-fam.text" = "starred";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows the details to the selected post."; ObjectID = "dLx-4k-TKq"; */
+"dLx-4k-TKq.accessibilityHint" = "Shows the details to the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Post details"; ObjectID = "dLx-4k-TKq"; */
+"dLx-4k-TKq.accessibilityLabel" = "Post details";
+
+/* Class = "IBUIButton"; accessibilityHint = "Reposts the selected post."; ObjectID = "dmb-um-vdo"; */
+"dmb-um-vdo.accessibilityHint" = "Reposts the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Repost"; ObjectID = "dmb-um-vdo"; */
+"dmb-um-vdo.accessibilityLabel" = "Repost";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "ek4-ci-caG"; */
+"ek4-ci-caG.text" = "Label";
+
+/* Class = "IBUIButton"; accessibilityHint = "Remove the hashtag from the list of muted hashtags."; ObjectID = "eva-ie-JJ5"; */
+"eva-ie-JJ5.accessibilityHint" = "Remove the hashtag from the list of muted hashtags.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Remove"; ObjectID = "eva-ie-JJ5"; */
+"eva-ie-JJ5.accessibilityLabel" = "Remove";
+
+/* Class = "IBUIButton"; normalTitle = "x"; ObjectID = "eva-ie-JJ5"; */
+"eva-ie-JJ5.normalTitle" = "x";
+
+/* Class = "IBUIButton"; accessibilityHint = "Stars the selected post."; ObjectID = "fHj-21-CnJ"; */
+"fHj-21-CnJ.accessibilityHint" = "Stars the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Star"; ObjectID = "fHj-21-CnJ"; */
+"fHj-21-CnJ.accessibilityLabel" = "Star";
+
+/* Class = "IBUIButton"; accessibilityHint = "Replies to the selected post."; ObjectID = "fIM-V5-EOb"; */
+"fIM-V5-EOb.accessibilityHint" = "Replies to the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Reply"; ObjectID = "fIM-V5-EOb"; */
+"fIM-V5-EOb.accessibilityLabel" = "Reply";
+
+/* Class = "IBUIImageView"; accessibilityHint = "Shows the users profile."; ObjectID = "fKQ-JV-5sd"; */
+"fKQ-JV-5sd.accessibilityHint" = "Shows the users profile.";
+
+/* Class = "IBUIImageView"; accessibilityLabel = "Profile"; ObjectID = "fKQ-JV-5sd"; */
+"fKQ-JV-5sd.accessibilityLabel" = "Profile";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "fSw-C6-Ilj"; */
+"fSw-C6-Ilj.text" = "Label";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows the conversation the post belongs to."; ObjectID = "fta-Wt-iNV"; */
+"fta-Wt-iNV.accessibilityHint" = "Shows the conversation the post belongs to.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Conversation"; ObjectID = "fta-Wt-iNV"; */
+"fta-Wt-iNV.accessibilityLabel" = "Conversation";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "g2W-tH-hek"; */
+"g2W-tH-hek.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "conversation"; ObjectID = "gGK-sA-ofO"; */
+"gGK-sA-ofO.title" = "conversation";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows a list with the links, mentions and hash tags included in the post."; ObjectID = "geg-IB-A6M"; */
+"geg-IB-A6M.accessibilityHint" = "Shows a list with the links, mentions and hash tags included in the post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Meta data"; ObjectID = "geg-IB-A6M"; */
+"geg-IB-A6M.accessibilityLabel" = "Meta data";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows interactions with you."; ObjectID = "gka-HZ-47R"; */
+"gka-HZ-47R.accessibilityHint" = "Shows interactions with you.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Interactions"; ObjectID = "gka-HZ-47R"; */
+"gka-HZ-47R.accessibilityLabel" = "Interactions";
+
+/* Class = "IBUIButton"; normalTitle = "interactions"; ObjectID = "gka-HZ-47R"; */
+"gka-HZ-47R.normalTitle" = "interactions";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows the people following this person."; ObjectID = "glc-r8-dBV"; */
+"glc-r8-dBV.accessibilityHint" = "Shows the people following this person.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Follower"; ObjectID = "glc-r8-dBV"; */
+"glc-r8-dBV.accessibilityLabel" = "Follower";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "hCS-tX-vea"; */
+"hCS-tX-vea.text" = "0";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows the posts this person has starred."; ObjectID = "hhl-ui-Tjo"; */
+"hhl-ui-Tjo.accessibilityHint" = "Shows the posts this person has starred.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Starred"; ObjectID = "hhl-ui-Tjo"; */
+"hhl-ui-Tjo.accessibilityLabel" = "Starred";
+
+/* Class = "IBUITabBarItem"; title = "Item"; ObjectID = "hrp-g0-IzB"; */
+"hrp-g0-IzB.title" = "Item";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "ifg-Tv-VFq"; */
+"ifg-Tv-VFq.text" = "0";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "j0y-JO-hKI"; */
+"j0y-JO-hKI.text" = "0";
+
+/* Class = "IBUISegmentedControl"; j4h-ic-Tvc.segmentTitles[0] = "Hashtag"; ObjectID = "j4h-ic-Tvc"; */
+"j4h-ic-Tvc.segmentTitles[0]" = "Hashtag";
+
+/* Class = "IBUISegmentedControl"; j4h-ic-Tvc.segmentTitles[1] = "User"; ObjectID = "j4h-ic-Tvc"; */
+"j4h-ic-Tvc.segmentTitles[1]" = "User";
+
+/* Class = "IBUIButton"; accessibilityHint = "Stars the selected post."; ObjectID = "j7w-bw-Mnk"; */
+"j7w-bw-Mnk.accessibilityHint" = "Stars the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Star"; ObjectID = "j7w-bw-Mnk"; */
+"j7w-bw-Mnk.accessibilityLabel" = "Star";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows a list with the links, mentions and hash tags included in the post."; ObjectID = "jGP-Ab-ist"; */
+"jGP-Ab-ist.accessibilityHint" = "Shows a list with the links, mentions and hash tags included in the post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Meta data"; ObjectID = "jGP-Ab-ist"; */
+"jGP-Ab-ist.accessibilityLabel" = "Meta data";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "jOk-s6-93K"; */
+"jOk-s6-93K.text" = "Label";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows the conversation the post belongs to."; ObjectID = "k3s-eM-fjU"; */
+"k3s-eM-fjU.accessibilityHint" = "Shows the conversation the post belongs to.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Conversation"; ObjectID = "k3s-eM-fjU"; */
+"k3s-eM-fjU.accessibilityLabel" = "Conversation";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "kWo-k9-sDi"; */
+"kWo-k9-sDi.text" = "0";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "kcl-oQ-Ewk"; */
+"kcl-oQ-Ewk.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "lhI-UB-6y2"; */
+"lhI-UB-6y2.text" = "Title";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "lmC-Qv-DXW"; */
+"lmC-Qv-DXW.text" = "0";
+
+/* Class = "IBUILabel"; text = "more posts (no loading yet)"; ObjectID = "lt5-s7-wr3"; */
+"lt5-s7-wr3.text" = "more posts (no loading yet)";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "m1F-je-uBo"; */
+"m1F-je-uBo.text" = "0";
+
+/* Class = "IBUIButton"; accessibilityHint = "Replies to the selected post."; ObjectID = "moh-Na-bWJ"; */
+"moh-Na-bWJ.accessibilityHint" = "Replies to the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Reply"; ObjectID = "moh-Na-bWJ"; */
+"moh-Na-bWJ.accessibilityLabel" = "Reply";
+
+/* Class = "IBUIButton"; accessibilityHint = "Remove the hashtag from the list of muted hashtags."; ObjectID = "nOz-W4-AJ6"; */
+"nOz-W4-AJ6.accessibilityHint" = "Remove the hashtag from the list of muted hashtags.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Remove"; ObjectID = "nOz-W4-AJ6"; */
+"nOz-W4-AJ6.accessibilityLabel" = "Remove";
+
+/* Class = "IBUIButton"; normalTitle = "x"; ObjectID = "nOz-W4-AJ6"; */
+"nOz-W4-AJ6.normalTitle" = "x";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "ng2-N9-wvu"; */
+"ng2-N9-wvu.text" = "Label";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "o8o-uR-Iyp"; */
+"o8o-uR-Iyp.text" = "0";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "off-nh-g8D"; */
+"off-nh-g8D.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "pGD-EO-5bx"; */
+"pGD-EO-5bx.text" = "Label";
+
+/* Class = "IBUIButton"; accessibilityHint = "Stars the selected post."; ObjectID = "pN2-jA-xlA"; */
+"pN2-jA-xlA.accessibilityHint" = "Stars the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Star"; ObjectID = "pN2-jA-xlA"; */
+"pN2-jA-xlA.accessibilityLabel" = "Star";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "pSb-6z-Qn3"; */
+"pSb-6z-Qn3.text" = "0";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "pvw-B0-bX0"; */
+"pvw-B0-bX0.text" = "Label";
+
+/* Class = "IBUIButton"; accessibilityHint = "Remove the hashtag from the list of muted hashtags."; ObjectID = "sIY-Sv-fIg"; */
+"sIY-Sv-fIg.accessibilityHint" = "Remove the hashtag from the list of muted hashtags.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Remove"; ObjectID = "sIY-Sv-fIg"; */
+"sIY-Sv-fIg.accessibilityLabel" = "Remove";
+
+/* Class = "IBUIButton"; normalTitle = "x"; ObjectID = "sIY-Sv-fIg"; */
+"sIY-Sv-fIg.normalTitle" = "x";
+
+/* Class = "IBUILabel"; text = "follower"; ObjectID = "ttG-lR-aAX"; */
+"ttG-lR-aAX.text" = "follower";
+
+/* Class = "IBUIImageView"; accessibilityHint = "Shows the users profile."; ObjectID = "uhC-FJ-G2p"; */
+"uhC-FJ-G2p.accessibilityHint" = "Shows the users profile.";
+
+/* Class = "IBUIImageView"; accessibilityLabel = "Profile"; ObjectID = "uhC-FJ-G2p"; */
+"uhC-FJ-G2p.accessibilityLabel" = "Profile";
+
+/* Class = "IBUIButton"; accessibilityHint = "Remove the hashtag from the list of muted hashtags."; ObjectID = "uqJ-yk-Qc8"; */
+"uqJ-yk-Qc8.accessibilityHint" = "Remove the hashtag from the list of muted hashtags.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Remove"; ObjectID = "uqJ-yk-Qc8"; */
+"uqJ-yk-Qc8.accessibilityLabel" = "Remove";
+
+/* Class = "IBUIButton"; normalTitle = "x"; ObjectID = "uqJ-yk-Qc8"; */
+"uqJ-yk-Qc8.normalTitle" = "x";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "vSW-hk-kbt"; */
+"vSW-hk-kbt.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "w77-v7-T9v"; */
+"w77-v7-T9v.text" = "Label";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "wJg-by-n4s"; */
+"wJg-by-n4s.text" = "0";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "wKO-PE-uxz"; */
+"wKO-PE-uxz.text" = "0";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "wf0-ZH-KgQ"; */
+"wf0-ZH-KgQ.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "wgt-F4-SFA"; */
+"wgt-F4-SFA.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "woa-ry-ewo"; */
+"woa-ry-ewo.text" = "Label";
+
+/* Class = "IBUIButton"; accessibilityHint = "Shows the details to the selected post."; ObjectID = "xCM-RW-cTO"; */
+"xCM-RW-cTO.accessibilityHint" = "Shows the details to the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Post details"; ObjectID = "xCM-RW-cTO"; */
+"xCM-RW-cTO.accessibilityLabel" = "Post details";
+
+/* Class = "IBUIButton"; normalTitle = "link dropbox"; ObjectID = "xQ5-RG-jdd"; */
+"xQ5-RG-jdd.normalTitle" = "link dropbox";
+
+/* Class = "IBUILabel"; text = "FontSize"; ObjectID = "xSc-s9-bMl"; */
+"xSc-s9-bMl.text" = "FontSize";
+
+/* Class = "IBUINavigationItem"; title = "drafts"; ObjectID = "xot-ZL-AZC"; */
+"xot-ZL-AZC.title" = "drafts";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "y9w-aS-c6I"; */
+"y9w-aS-c6I.text" = "Label";
+
+/* Class = "IBUIButton"; accessibilityHint = "Reposts the selected post."; ObjectID = "yUX-78-lLc"; */
+"yUX-78-lLc.accessibilityHint" = "Reposts the selected post.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Repost"; ObjectID = "yUX-78-lLc"; */
+"yUX-78-lLc.accessibilityLabel" = "Repost";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "z6a-0j-Vmd"; */
+"z6a-0j-Vmd.text" = "Label";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "zD9-PV-4Aj"; */
+"zD9-PV-4Aj.text" = "0";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "zom-Tc-Ofj"; */
+"zom-Tc-Ofj.text" = "Label";
+

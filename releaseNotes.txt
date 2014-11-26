@@ -1,0 +1,7 @@
+New features in 1.1:
+
+* disable image loading
+
+1.2.4:
+* Chinese support for language annotations
+* iPad version

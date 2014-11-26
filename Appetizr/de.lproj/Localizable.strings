@@ -1,0 +1,266 @@
+/* 
+  Localizable.strings
+  Appetizr
+
+  Created by dasdom on 23.02.13.
+  Copyright (c) 2013 dasdom. All rights reserved.
+*/
+
+"started following you" = "folgt dir jetzt";
+
+"loading new posts" = "lade neue Posts";
+
+"now" = "jetzt";
+" posted now %@" = " hat gerade %@ geposted";
+" posted now and was %@" = " wurde gerade %@";
+" posted %d minutes ago %@" = " hat vor %d Minuten %@ gepostet";
+" posted %d minutes ago and was %@" = " wurde vor %d Minuten %@";
+" posted %d hours ago %@" = " hat vor %d Stunden %@ gepostet";
+" posted %d hours ago and was %@" = " wurde vor %d Stunden %@";
+" posted %d days ago %@" = " hat vor %d Tagen %@ gepostet";
+" posted %d days ago and was %@" = " wurde vor %d Tagen %@";
+
+"Your Record: %.0f s" = "Dein Rekord: %.0f s";
+
+"reposted by %@ via %@" = "repostet durch %@ via %@";
+"reposted by %@" = "repostet durch %@";
+
+"%d new posts (%@)" = "%d neue Posts (%@)";
+
+"unfollow" = "entfolgen";
+"follow" = "folgen";
+
+"Image has been saved to your camera roll." = "Das Bild wurde deinen Fotos gespeichert.";
+
+// Settings
+"User" = "Benutzer";
+"show posts directed to people I don't follow" = "Zeige Posts die an Benutzer gerichtet sind, denen ich nicht folge";
+"read later" = "später lesen";
+"load images" = "lade Bilder";
+"show real names" = "zeige echte Namen";
+"hide posts in my stream which I have seen in conversations" = "verstecke Posts im Stream, die ich in Konversationen schon gesehen habe";
+"normal keyboard" = "normales Keyboard";
+"absolute time stamp" = "absolute Zeitangabe";
+"dark mode" = "dunkler Modus";
+"ignore unread patter messages" = "ignoriere ungelesene Patter-Nachrichten";
+"stream marker" = "Streammarker";
+"about (v%@)" = "über (v%@)";
+"tiny" = "winzig";
+"small" = "klein";
+"medium" = "mittel";
+"big" = "groß";
+"language filter" = "Sprachfilter";
+"active" = "aktiv";
+"custom color scheme" = "benutzerdefinierte Farben";
+"confirm reset" = "Reset bestätigen";
+"Do you really want to reset the custom colors to the preinstalles light color theme?" = "Möchtest du wirklich dein benutzerdefiniertes Farbschema auf das vorinstallierte helle Schema zurücksetzen?";
+"Do you want to share your custom color theme in the hAppy color theme patter room (id: 19518)?" = "Willst du dein benutzerdefiniertes Farbschema im hAppy-Farbschema-Patter-Raum (id: 19518) mit anderen teilen?";
+"share" = "Teilen";
+"You are going to share your theme in the hAppy Color patter room. Do you want to subscribe to that channel?" = "Du bist dabei dein Farbschema im hAppy-Farbschema-Patter-Raum zu teilen. Möchtest du diesem Raum auch beitreten?";
+"Subscribe" = "Beitreten";
+"install" = "Installieren";
+"reset" = "Zurücksetzen";
+"colors" = "Farben";
+"cell background" = "Zellenhintergrund";
+"marked cell background" = "hervorgehobener Zellenhintergrund";
+"text" = "Text";
+"hashtags" = "Hashtags";
+"links" = "Links";
+"main color" = "Hauptfarbe";
+"new message marker" = "Nachrichtenmarker";
+"title" = "Titel";
+"separator" = "Zelltrenner";
+"font: %@" = "Font: %@";
+"font size: %@" = "Fontgröße: %@";
+
+"Stream Behavior" = "Streamverhalten";
+"Font" = "Font";
+"Info" = "Info";
+
+"... was replyed to by ..." = "... bekam eine Antwort von ...";
+"... was reposted to ..." = "... wurde repostet von ...";
+"... was starred by ..." = "... wurde favorisiert von ...";
+"%@ from %@" = "%@ aus %@";
+
+"replies" = "Antworten";
+"post" = "Post";
+"in reply to" = "als Antwort auf";
+
+"No Internet" = "Kein Internet";
+"You don't have connection to the internet." = "Du hast keine Verbindung zum Internet.";
+"Error occurred" = "Ein Fehler ist aufgetreten";
+"Retry" = "Nochmal";
+
+"Post is to long" = "Post ist zu lang";
+"The post can maximal be 256 characters." = "Ein Post kann maximal 256 Zeichen haben.";
+"new post (%@)" = "neuer Post (%@)";
+"new post" = "neuer Post";
+"Image" = "Foto";
+
+"Discard" = "Verwerfen";
+"Save" = "Speichern";
+
+"Save draft" = "Entwurf speichern";
+"No" = "Nein";
+"Do you want to save the post as a draft?" = "Willst du den Post als Entwurf speichern?";
+"Not supportet input" = "Nicht unterstützte Eingabe";
+"Hashtags can't have spaces." = "Hashtags können keine Leerzeichen haben.";
+"User name empty" = "Benutzername ist leer";
+"You have to provide a user name." = "Du musst einen Benutzernamen eingeben.";
+"Error" = "Fehler";
+"Could not connect to your instapaper account." = "Verknüpfung mit Instapaper fehlgeschlagen.";
+"Could not send to instapaper." = "Senden an Instapaper fehlgeschlagen.";
+"Success" = "Erfolg";
+"URL successfully sent to instapaper." = "URL wurde erfolgreich an Instapaper gesendet.";
+"send to Instapaper succeeded" = "Senden nach Instapaper erfolgreich";
+"send to Instapaper failed" = "Senden nach Instapaper fehlgeschlagen";
+"Sharing successful" = "Teilen erfolgreich";
+"Sharing failed" = "Teilen fehlgeschlagen";
+"In App Purchase are not possible. Do you have them disabled?" = "In-App-Purchase ist nicht möglich. Hast du sie vielleicht deaktiviert?";
+
+"actions" = "aktionen";
+"Actions" = "Aktionen";
+"Shows additional buttons." = "Zeigt zusätzliche Buttons.";
+
+"following %@" = "folgt %@";
+"%@ follower" = "%@ Folgende";
+"%@ starred" = "%@ favorisiert";
+
+"message" = "Nachricht";
+"messages" = "Nachrichten";
+"%d new %@" = "%d neue %@";
+
+// Profile page
+
+"more" = "mehr";
+"less" = "weniger";
+"posts: %@\nfollowing: %@\nfollower: %@" = "Posts: %@\nfolgt: %@\nFolgende: %@";
+"The people %@ is following are following in average %.1f people." = "Die Leute, denen %@ folgt, folgen im Durchschnitt %.1f Leuten.";
+"The people following %@ are followed in average by %.1f people." = "Die Leute, die %@ folgen, werden im Durchschnitt von %.1f Leuten gefolgt.";
+"interactions" = "Interaktionen";
+"show muted" = "zeige Muted";
+"files" = "Dateien";
+"edit" = "editieren";
+"Edit" = "Editieren";
+"Lets edit your profile." = "Lässt das Profil bearbeiten.";
+
+//
+
+"my stream" = "mein Stream";
+"mentions" = "Erwähnungen";
+"global" = "Global";
+"explore" = "Entdecken";
+"messages" = "Nachrichten";
+"messages(%@)" = "Nachrichten (%@)";
+"patter" = "Patter";
+"patter(%@)" = "Patter (%@)";
+"profile" = "Profil";
+
+
+// Action sheets
+
+"reply or private message" = "antworten oder private Nachricht";
+"reply" = "antworten";
+"private message" = "private Nachricht";
+
+"repost or quote" = "reposten oder zitieren";
+"repost" = "reposten";
+"quote" = "zitieren";
+"report post" = "Post melden";
+
+"chose image source" = "Bildquelle wählen";
+"cancel" = "Abbrechen";
+"camera" = "Kamera";
+"gallery" = "Galerie";
+"last photo" = "letztes Foto";
+"camera photo" = "Kamerafoto";
+"gallery photo" = "Galleriefoto";
+"post to patter" = "nach Patter posten";
+//"broadcast this post" = "diesen Post broadcasen";
+"also post to stream" = "auch im Stream posten";
+"link" = "Link";
+"place" = "Ort";
+"places" = "Orte";
+
+"delete post" = "Post löschen";
+"copy" = "kopieren";
+"copy link to post" = "Link zum Post kopieren";
+"copy post text" = "Posttext kopieren";
+"mute conversation" = "Konversation verstecken";
+"mute client" = "Client verstecken";
+
+"mention" = "erwähnen";
+
+"add" = "hinzufügen";
+
+
+"de" = "Deutsch";
+"en" = "Englisch";
+"es" = "Spanisch";
+"fr" = "Französisch";
+"it" = "Italienisch";
+"ar" = "Arabisch";
+"az" = "Azerbaijanisch";
+"bg" = "Burgarisch";
+"bn" = "Bengali";
+"bs" = "Bosnisch";
+"ca" = "Catalanisch";
+"cs" = "Tschechisch";
+"cy" = "Walisisch";
+"da" = "Dänisch";
+"el" = "Griechisch";
+"et" = "Estnisch";
+"eu" = "Baskisch";
+"fa" = "Persisch";
+"fi" = "Finnisch";
+"ga" = "Irisch";
+"gl" = "Gälisch";
+"he" = "Hebräisch";
+"hi" = "Hindi";
+"hr" = "Kroatisch";
+"hu" = "Ungarisch";
+"id" = "Indonesisch";
+"is" = "Isländisch";
+"ja" = "Japanisch";
+"ka" = "Georgisch";
+"kk" = "Kasachisch";
+"km" = "Khmer";
+"kn" = "Kannada";
+"ko" = "Koreanisch";
+"lt" = "Litauisch";
+"lv" = "Lettisch";
+"mk" = "Mazedonisch";
+"ml" = "Malayalam";
+"mn" = "Mongolisch";
+"nb" = "Bokmål";
+"ne" = "Nepalesich";
+"nl" = "Niederländisch";
+"nn" = "Nynorsk";
+"no" = "Norwegisch";
+"pa" = "Pandschabi";
+"pl" = "Polnisch";
+"pt" = "Portugesisch";
+"ro" = "Romänisch";
+"ru" = "Russisch";
+"sk" = "Slowakisch";
+"sl" = "Slowenisch";
+"sq" = "Albanisch";
+"sr" = "Serbisch";
+"sv" = "Schwedisch";
+"sw" = "Swahili";
+"ta" = "Tamil";
+"te" = "Telugu";
+"th" = "Thai";
+"tr" = "Türkisch";
+"tt" = "Tatar";
+"uk" = "Ukrainisch";
+"ur" = "Urdu";
+"vi" = "Vitnamesisch";
+"zh_CN" = "Chinesisch traditional";
+"zh_TW" = "Chinesisch vereinfacht";
+
+"without language annotation" = "ohne Sprachvermerk";
+"all" = "alle";
+"w/o" = "ohne";
+"main languages" = "Hauptsprachen";
+"other languages" = "andere Sprachen";

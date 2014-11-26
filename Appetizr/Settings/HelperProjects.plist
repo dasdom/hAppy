@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>PRPConnection</string>
+		<key>link</key>
+		<string>http://www.pragmaticprogrammer.com/titles/cdirec</string>
+		<key>licence</key>
+		<string>Excerpted from &quot;iOS Recipes&quot;,
+published by The Pragmatic Bookshelf.
+Copyrights apply to this code. It may not be used to create training material, 
+courses, books, articles, and the like. Contact us if you are in doubt.
+We make no guarantees that this code is fit for any purpose. 
+Visit http://www.pragmaticprogrammer.com/titles/cdirec for more book information.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>PRPAlertView</string>
+		<key>link</key>
+		<string>http://www.pragmaticprogrammer.com/titles/cdirec</string>
+		<key>licence</key>
+		<string>Excerpted from &quot;iOS Recipes&quot;,
+published by The Pragmatic Bookshelf.
+Copyrights apply to this code. It may not be used to create training material, 
+courses, books, articles, and the like. Contact us if you are in doubt.
+We make no guarantees that this code is fit for any purpose. 
+Visit http://www.pragmaticprogrammer.com/titles/cdirec for more book information.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ANAPIRangeAdapter</string>
+		<key>link</key>
+		<string>https://github.com/berg/ANAPIRangeAdapter</string>
+		<key>licence</key>
+		<string>NSString+ANAPIRangeAdapter.h
+ANAPIRangeAdapter
+
+Created by Bryan Berg on 2/11/13.
+
+The author or authors of this code dedicate any and all copyright
+interest in this code to the public domain. We make this dedication for
+the benefit of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+code under copyright law.
+</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BOZPongRefreshControl</string>
+		<key>link</key>
+		<string>https://github.com/boztalay/BOZPongRefreshControl</string>
+		<key>licence</key>
+		<string>The MIT License (MIT)
+
+Copyright (c) 2013 Ben Oztalay
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the &quot;Software&quot;), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ADNLogin</string>
+		<key>link</key>
+		<string>https://github.com/appdotnet/ADNLogin-SDK-iOS</string>
+		<key>licence</key>
+		<string>Copyright (c) 2013 Mixed Media Labs, Inc. All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the &quot;Software&quot;), to deal in the Software
+without restriction, including without limitation the rights to use, copy, modify,
+merge, publish, distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or
+substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>PocketAPI</string>
+		<key>link</key>
+		<string>http://getpocket.com/developer/docs/sdk/objective-c</string>
+		<key>licence</key>
+		<string>//  PocketAPI.h
+PocketSDK
+
+Created by Steve Streza on 5/29/12.
+Copyright (c) 2012 Read It Later, Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the &quot;Software&quot;), to deal in the Software
+without restriction, including without limitation the rights to use, copy, modify, 
+merge, publish, distribute, sublicense, and/or sell copies of the Software, and to 
+permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or
+substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING 
+BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Overshare Kit</string>
+		<key>link</key>
+		<string>https://github.com/overshare/overshare-kit</string>
+		<key>licence</key>
+		<string>The MIT License (MIT)
+
+Copyright (c) 2013 overshare
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the &quot;Software&quot;), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
+	</dict>
+</array>
+</plist>
