@@ -75,7 +75,11 @@
 
     UIActivityViewController *activityViewController = [[UIActivityViewController alloc] initWithActivityItems:dataToShare applicationActivities:[activityArray copy]];
     if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad) {
-        [[[self parentViewController] parentViewController] presentViewController:activityViewController animated:YES completion:^{}];
+//        activityViewController.popoverPresentationController.sourceView = postCell.postTextView;
+//        CGRect sourceRect = CGRectMake(locationInPostText.x, locationInPostText.y, 10, 10);
+        activityViewController.popoverPresentationController.barButtonItem = sender;
+        activityViewController.popoverPresentationController.permittedArrowDirections = UIPopoverArrowDirectionDown | UIPopoverArrowDirectionUp;
+        [self presentViewController:activityViewController animated:YES completion:^{}];
     } else {
         [self presentViewController:activityViewController animated:YES completion:^{}];
     }

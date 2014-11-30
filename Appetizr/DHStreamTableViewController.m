@@ -1693,7 +1693,6 @@ const CGFloat kSlideInHeight = 20.0;
             UIActivityViewController *activityViewController = [[UIActivityViewController alloc] initWithActivityItems:dataToShare applicationActivities:[activityArray copy]];
 
             if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad) {
-//                [[[self parentViewController] parentViewController] presentViewController:activityViewController animated:YES completion:^{}];
                 activityViewController.popoverPresentationController.sourceView = postCell.postTextView;
                 CGRect sourceRect = CGRectMake(locationInPostText.x, locationInPostText.y, 10, 10);
                 activityViewController.popoverPresentationController.sourceRect = sourceRect;
@@ -2519,8 +2518,10 @@ const CGFloat kSlideInHeight = 20.0;
 - (void)updateMarker {
     dhDebug(@"updateMarker, self: %@", self);
     if ((![[NSUserDefaults standardUserDefaults] boolForKey:kStreamMarker] &&
-        ![self isKindOfClass:([DHMessagesTableViewController class])]) ||
-        [self isKindOfClass:([DHStreamDetailTableViewController class])]) {
+        ![self isKindOfClass:[DHMessagesTableViewController class]]) ||
+        [self isKindOfClass:[DHStreamDetailTableViewController class]]
+//        || [self isKindOfClass:[DHMentionsTableViewController class]]
+        ) {
         return;
     }
     if ([self.userStreamArray count] < 1) {
@@ -2569,10 +2570,12 @@ const CGFloat kSlideInHeight = 20.0;
         [postRequest addValue:@"application/json" forHTTPHeaderField:@"Content-Type"];
         
         NSMutableArray *array = [NSMutableArray array];
-        NSDictionary *postDict = @{@"name" : @"unified", @"last_read_id" : [NSNumber numberWithInteger:newestPostId], @"id": [NSNumber numberWithInteger:topMostPostId]};
+        NSDictionary *postDict = @{@"name" : self.markerDict[@"name"], @"last_read_id" : [NSNumber numberWithInteger:newestPostId], @"id": [NSNumber numberWithInteger:topMostPostId]};
         [array addObject:postDict];
-        postDict = @{@"name" : @"my_stream", @"last_read_id" : [NSNumber numberWithInteger:newestPostId], @"id": [NSNumber numberWithInteger:topMostPostId]};
-        [array addObject:postDict];
+        if ([self.markerDict[@"name"] isEqualToString:@"unified"]) {
+            postDict = @{@"name" : @"my_stream", @"last_read_id" : [NSNumber numberWithInteger:newestPostId], @"id": [NSNumber numberWithInteger:topMostPostId]};
+            [array addObject:postDict];
+        }
 
         NSData *postData = [NSJSONSerialization dataWithJSONObject:array options:kNilOptions error:nil];
         [postRequest setHTTPBody:postData];
